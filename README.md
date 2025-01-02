@@ -13,3 +13,7 @@ Please create a pull request to add your submissions.
 - [micro-ROS repo](https://github.com/micro-ros) and [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino)
 - [Kaia.ai](https://github.com/kaiaai/kaiaai) with [ESP32 Arduino micro-ROS firmware](https://github.com/kaiaai/firmware)
 - a [micro-ROS Arduino build](https://github.com/kaiaai/micro_ros_arduino_kaiaai) with additional custom messages
+
+## Tutorials
+- [How to build the micro-ROS library](https://kaia.ai/blog/rebuild-micro-ros-arduino-library/)
+- 
