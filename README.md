@@ -1,5 +1,4 @@
 # awesome-micro-ros-projects
-A list of awesome micro-ROS projects
 
 Please create a pull request to add your submissions.
 
