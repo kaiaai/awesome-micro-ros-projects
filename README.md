@@ -14,3 +14,4 @@ Please create a pull request to add your submissions.
 
 ## Tutorials
 - [How to build the micro-ROS library](https://kaia.ai/blog/rebuild-micro-ros-arduino-library/)
+- [Micro-Ros robot using PlatformIO for ESP32 for ROS2](https://www.youtube.com/watch?v=Nf7HP9y6Ovo)
