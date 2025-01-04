@@ -23,7 +23,7 @@ Please create a pull request to add your submissions.
 - [Humble + OpenCV + microROS Example](https://github.com/miguelgonrod/OpenCV-microRos-ledController) - a custom node designed to detect hand gestures and communicate with an ESP32 microcontroller via WiFi using Micro-ROS, 2022
 
 ## Tutorials and Demos
-- [How to build the micro-ROS library](https://kaia.ai/blog/rebuild-micro-ros-arduino-library/) 2024
+- [How to build the micro-ROS library on Windows for Arduino](https://kaia.ai/blog/rebuild-micro-ros-arduino-library/) 2024
 - [Micro-Ros robot using PlatformIO for ESP32 for ROS2](https://www.youtube.com/watch?v=Nf7HP9y6Ovo) 2023
 - [MicroROS Control of a 6DoF Robot Arm](https://www.youtube.com/watch?v=47W5pFRguRQ) by HiWonder with Raspberry Pi Pico, DrJonea.co.uk, 2023
 - [Seamless Communication between Jetson Nano and ESP32 with MicroROS](https://medium.com/@kabilankb2003/seamless-communication-between-jetson-nano-and-esp32-with-microros-bd82c1cc7c53) 2024
