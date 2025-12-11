@@ -10,7 +10,7 @@ Please create a pull request to add your submissions.
 
 ## Robots
 - Maker's Pet [Mini](https://github.com/makerspet/makerspet_mini), [Snoopy](https://github.com/makerspet/makerspet_snoopy), [Loki](https://github.com/makerspet/makerspet_loki) and [Fido](https://github.com/makerspet/makerspet_fido) differential-drive ROS2/micro-ROS/Kaia.ai ESP32-based robots with 2D Lidar 2024-2025
-- [Linorobot 2](https://github.com/linorobot/linorobot2) 2020-2024
+- [Linorobot 2](https://github.com/linorobot/linorobot2) 2020-2025
 - [Rosmo ESP32 Robot](https://discourse.ros.org/t/rosmo-esp32-bldc-project-for-microros/24451), [Rosmo on GitHub](https://github.com/rosmo-robot) 2024-2025
 - [ROS2 and microROS Line Drawing Robot](https://discourse.ros.org/t/lineturtle-drawing-robot-based-on-esp32-microros-and-ros-2-by-robofuntastic/32940) - Lineturtle by RoboFuntastic, 2023
 - [Interfacing Arduino Alvik with micro-ROS](https://www.youtube.com/watch?v=Vm0-MFGDhcU) 2024
